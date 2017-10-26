@@ -148,3 +148,11 @@ target
 bin/im2rec
 
 model/
+<<<<<<< HEAD
+=======
+
+# generated function signature for IDE auto-complete
+python/mxnet/symbol/gen_*
+python/mxnet/ndarray/gen_*
+python/.eggs
+>>>>>>> upstream/master
